@@ -1,4 +1,3 @@
-import 'select2';
 import 'jquery-datetimepicker';
 import './vendor/jquery_palette_color_picker/palette-color-picker';
 
